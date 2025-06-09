@@ -31,6 +31,8 @@ make
 Run the Arithmetic program using input.txt and redirect output to output.txt
 
 Expected Setup
+
+
 input.txt: should contain two large integers (and a blank line between them) like:
 12345678901234567890
 
