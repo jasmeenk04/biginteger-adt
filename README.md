@@ -28,15 +28,15 @@ make
 ```
 
 4. **Run your own input:**
-# Run the Arithmetic program using input.txt and redirect output to output.txt
+Run the Arithmetic program using input.txt and redirect output to output.txt
 
-# Expected Setup
-# input.txt: should contain two large integers (and a blank line between them) like:
+Expected Setup
+input.txt: should contain two large integers (and a blank line between them) like:
 12345678901234567890
 
 98765432109876543210
 
-# output.txt: will be created or overwritten with the results of your arithmetic operations.
+output.txt: will be created or overwritten with the results of your arithmetic operations.
 
 # Run it!
 ```bash 
